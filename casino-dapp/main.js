@@ -1,5 +1,5 @@
-Moralis.initialize("INSERT_APP_ID"); // Application id from moralis.io
-Moralis.serverURL = "INSERT_SERVER_URL"; //Server url from moralis.io
+Moralis.initialize("WjJMSxph5PhhXwKXNkG4K4KYUJkqHz1o9bs77IE7"); // Application id from moralis.io
+Moralis.serverURL = "https://5qhuplfhiqo3.moralishost.com:2053/server"; //Server url from moralis.io
 const CONTRACT_ADDRESS = "INSERT_CONTRACT_ADDRESS";
 
 function displayErrorMessage(message){
